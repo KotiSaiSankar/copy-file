@@ -20,6 +20,7 @@ Anaconda - Python 3.7
 ## PROGRAM:
 
 ### OUTPUT:
+![giy](https://user-images.githubusercontent.com/118344248/214654707-d421820c-cedd-4226-8bdb-b915f03ef6d5.png)
 
 
 
